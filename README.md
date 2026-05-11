@@ -87,8 +87,11 @@ Objective:   My goal is to focus on scientific research and teaching
 ## 🌐 Onde me encontrar
 
 <div align="center">
-
+  
 [![GitHub](https://img.shields.io/badge/GitHub-YURI--gomes062-181717?style=for-the-badge&logo=github)](https://github.com/YURI-gomes062)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Gomes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gomes-64a029377/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562981127152)
+[![Telegram](https://img.shields.io/badge/Telegram-Conversar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5562981127152)
 
 </div>
 
