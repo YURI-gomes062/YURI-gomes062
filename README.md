@@ -31,14 +31,11 @@ Objective:   My goal is to focus on scientific research and teaching
 ## 🛠️ Linguagens & Tecnologias
 
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=c&logoColor=white" alt="C">
 
-  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
-  <img src="https://img.shields.io/badge/-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
