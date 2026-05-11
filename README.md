@@ -8,7 +8,7 @@
 
 <div align="center">
 
-###👋 Hello, welcome to **my profile**
+### 👋 Hello, welcome to **my profile**
 
 *"I'm a beginner and I have a lot to learn, but I'm determined to give it my all."*
 
