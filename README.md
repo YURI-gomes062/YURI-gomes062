@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=200&section=header&text=Gomes_yuri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Back-end%20Developer&descAlignY=58&descSize=18" width="100%"/>
@@ -11,7 +10,7 @@
 
 ### 👋 Olá! Eu sou o **Yuri Gomes**
 
-> *"Sou iniciante e tenho muito a aprender, mas estou obstinado em correr atrás."*
+*"Sou iniciante e tenho muito a aprender, mas estou obstinado em correr atrás."*
 
 </div>
 
