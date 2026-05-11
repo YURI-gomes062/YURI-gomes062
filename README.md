@@ -52,7 +52,7 @@ Objective:   My goal is to focus on scientific research and teaching
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YURI-gomes062&theme=tokyonight&hide_border=true" height="200em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YURI-gomes062&theme=tokyonight&hide_border=true" height="150em"/>
 
 </div>
 
