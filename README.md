@@ -20,7 +20,7 @@
 
 ```yaml
 name:        Yuri Gomes
-usuario:     YURI-gomes062
+user:        YURI-gomes062
 focus:       Full Stack / Back-end / Automation / scientific research
 nivel:       begginer
 Objective:   My goal is to focus on scientific research and teaching
@@ -32,13 +32,11 @@ Objective:   My goal is to focus on scientific research and teaching
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
-
-  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-
-  <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-
-  <img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -97,7 +95,5 @@ Objective:   My goal is to focus on scientific research and teaching
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:6e40c9&height=120&section=footer" width="100%"/>
-
-*⭐ Se algum projeto te ajudou, deixa uma estrela — significa muito!*
 
 </div>
