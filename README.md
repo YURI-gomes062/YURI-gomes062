@@ -10,7 +10,7 @@
 
 ### 👋 Olá! Eu sou o **Yuri Gomes**
 
-*"Sou iniciante e tenho muito a aprender, mas estou obstinado em correr atrás."*
+*"I'm a beginner and I have a lot to learn, but I'm determined to give it my all."*
 
 </div>
 
@@ -19,11 +19,11 @@
 ## 🧠 Sobre mim
 
 ```yaml
-nome:        Yuri Gomes
+name:        Yuri Gomes
 usuario:     YURI-gomes062
-foco:        Full Stack / Back-end
-nivel:       Iniciante em evolução constante
-mentalidade: Obstinado e determinado 🔥
+focus:       Full Stack / Back-end / Automation / scientific research
+nivel:       begginer
+Objective:   My goal is to focus on scientific research and teaching
 ```
 
 ---
@@ -52,7 +52,7 @@ mentalidade: Obstinado e determinado 🔥
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YURI-gomes062&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YURI-gomes062&theme=tokyonight&hide_border=true" height="200em"/>
 
 </div>
 
