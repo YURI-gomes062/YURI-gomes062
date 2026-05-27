@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About me
 
 ```yaml
 name:        Yuri Gomes
@@ -28,7 +28,7 @@ Objective:   My goal is to focus on scientific research and teaching
 
 ---
 
-## 🛠️ Linguagens & Tecnologias
+## 🛠️ languages ​​and tools
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Objective:   My goal is to focus on scientific research and teaching
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 graphic
 
 <div align="center">
 
@@ -53,23 +53,20 @@ Objective:   My goal is to focus on scientific research and teaching
 
 ---
 
-## 🎯 Interesses & Objetivos
+## 🎯 Interests
 
 <div align="center">
 
 | 💡 Área | 🚀 Objetivo |
-|--------|------------|
-| **Back-end** | Dominar APIs robustas e escaláveis |
-| **Full Stack** | Construir projetos do zero ao deploy |
-| **Algoritmos** | Evoluir em lógica e estrutura de dados com C |
-| **Automação** | Criar scripts úteis com Python |
-| **Banco de Dados** | Modelar e otimizar queries com SQL |
+|---------|------------|
+| **Academic Research** | To create and contribute to scientific projects in the tech field in order to build an academic profile. |
+| **Developer_Fullstack** | To create robust and sustainable systems that promote task automation and improve working conditions. |
 
 </div>
 
 ---
 
-## 📈 Atividade de Contribuições
+## 📈 Recent activities
 
 <div align="center">
 
@@ -79,7 +76,7 @@ Objective:   My goal is to focus on scientific research and teaching
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contact me
 
 <div align="center">
   
