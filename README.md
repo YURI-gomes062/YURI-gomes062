@@ -1,10 +1,6 @@
-<h1 align="center">Olá, eu sou o Yuri 👋</h1>
+<h1 align="center">Hi, I am Yuri 👋</h1>
 
-<h3 align="center">Estudante de Engenharia de Software (IFG) • Backend • Machine Learning & CNNs</h3>
-
-<p align="center">
-  <i>"I'm a beginner and I have a lot to learn, but I'm determined to give it my all."</i>
-</p>
+<h3 align="center">Developer and Researcher </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuri-gomes-de-oliveira-1627912a2/">
