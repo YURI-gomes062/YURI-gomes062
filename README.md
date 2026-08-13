@@ -116,6 +116,3 @@ objetivo:    Construir uma trajetória em pesquisa científica e ensino,
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0056b4,100:00b4d8&height=120&section=footer"/>
-</p>
