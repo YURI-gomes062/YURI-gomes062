@@ -3,13 +3,13 @@
 <h3 align="center">Developer and Researcher </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuri-gomes-de-oliveira-1627912a2/">
+  <a href="https:https://www.linkedin.com/in/yuri-gomes-64a029377/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/5562981127152">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://t.me/yurigomes062">
+  <a href="https://t.me/yuri_c137">
     <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
