@@ -25,10 +25,9 @@ foco:        Backend, Automação, Machine Learning e Redes Neurais (CNNs)
 objetivo:    Construir uma trajetória em pesquisa científica e Desenvolvimento
 ```
 
-- 🔭 Atualmente estudando algoritmos, banco de dados e explorando **redes neurais convolucionais**
+- 🔭 Estudando atualmente **Machine Learning** e **CNNs**, além de BD mySQL e algoritmos no geral
 - 🌱 Aprendendo a aplicar Python/ML em projetos práticos de automação e pesquisa
-- 🎯 Meta: construir sistemas back-end sólidos que sirvam de base para projetos de IA
-- 💬 Pergunte-me sobre: C, Python, bancos de dados relacionais e primeiros passos em ML
+- 🎯 Meta: construir projetos back-end que sejam de fácil manutenção e upgrade
 
 ---
 
