@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I am Yuri 👋</h1>
+<h1 align="center">Hi, Welcome to my profile 🚀</h1>
 
-<h3 align="center">Developer and Researcher </h3>
+<h3 align="center"> Software Engineering Student | Back-end developer | C | JS | Python | C# | MYSQL | Machine Learning | CNNs | </h3>
 
 <p align="center">
   <a href="https:https://www.linkedin.com/in/yuri-gomes-64a029377/">
