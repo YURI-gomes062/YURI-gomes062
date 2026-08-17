@@ -20,7 +20,7 @@
 
 ```yaml
 nome:        Yuri Gomes
-formação:    Engenharia de Software - IFG (3º período)
+formação:    Engenharia de Software - IFG (4º período)
 foco:        Backend, Automação, Machine Learning e Redes Neurais (CNNs)
 objetivo:    Construir uma trajetória em pesquisa científica e Desenvolvimento
 ```
