@@ -22,9 +22,7 @@
 nome:        Yuri Gomes
 formação:    Engenharia de Software - IFG (3º período)
 foco:        Backend, Automação, Machine Learning e Redes Neurais (CNNs)
-nível:       Iniciante em evolução constante
-objetivo:    Construir uma trajetória em pesquisa científica e ensino,
-             unindo backend robusto com IA aplicada
+objetivo:    Construir uma trajetória em pesquisa científica e Desenvolvimento
 ```
 
 - 🔭 Atualmente estudando algoritmos, banco de dados e explorando **redes neurais convolucionais**
