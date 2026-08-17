@@ -87,7 +87,6 @@ objetivo:    Construir uma trajetória em pesquisa científica e Desenvolvimento
 
 - 🐍 [**Snake-Game**](https://github.com/YURI-gomes062/Snake-Game) — Jogo desenvolvido em Python (Mini-curso de Desenvolvimento de Jogos)
 - 🧮 [**ATP2_2026**](https://github.com/YURI-gomes062/ATP2_2026) — Listas de algoritmos em C (IFG)
-- 🗄️ [**Database-one_2026**](https://github.com/YURI-gomes062/Database-one_2026) — Exercícios de banco de dados (IFG)
 - ✅ [**TASK_CRUD**](https://github.com/YURI-gomes062/TASK_CRUD) — CRUD com PHP, API REST e MySQL
 - 🤖 [**Projects_arduino**](https://github.com/YURI-gomes062/Projects_arduino) — Projetos com Arduino
 
