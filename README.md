@@ -51,27 +51,6 @@ objetivo:    Construir uma trajetória em pesquisa científica e Desenvolvimento
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YURI-gomes062&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YURI-gomes062&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YURI-gomes062&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YURI-gomes062&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YURI-gomes062&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
 ### 🎯 Interesses
 
 | 💡 Área | 🚀 Objetivo |
