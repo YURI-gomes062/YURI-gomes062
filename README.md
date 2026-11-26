@@ -34,7 +34,6 @@
 </div>
 
 ---
-
 ## 👨‍💻 Sobre mim
 
 ```python
@@ -48,12 +47,15 @@ class YuriGomes:
 
     def meta(self):
         return "Projetos back-end de fácil manutenção e upgrade 🎯"
- 
+```
+
 - 🔭 Estudando atualmente **Machine Learning** e **CNNs**, além de BD MySQL e algoritmos em geral
 - 🌱 Aprendendo a aplicar **Python/ML** em projetos práticos de automação e pesquisa
 - 🎯 Meta: construir projetos **back-end** com fácil manutenção e upgrade
 - ⚡ Curioso por eletrônica e robótica com **Arduino**
----
+
+<hr/>
+
 ## 🛠️ Stack & Ferramentas
 
 <div align="center">
