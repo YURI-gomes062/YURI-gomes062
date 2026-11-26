@@ -66,9 +66,9 @@ class YuriGomes:
 
 <br/><br/>
 
-<b>Frameworks, Libs & Hardware</b>
+<img src="https://skillicons.dev/icons?i=nodejs,tensorflow,pytorch,arduino,git&perline=5" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,tensorflow,pytorch,numpy,arduino,git&perline=6" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 </div>
 
