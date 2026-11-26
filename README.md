@@ -89,27 +89,27 @@ class YuriGomes:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/YURI-gomes062/Snake-Game">Snake-Game</a></h3>
-      <p>Jogo desenvolvido em Python durante mini-curso de desenvolvimento de jogos.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <h3>📐 <a href="https://github.com/YURI-gomes062/NOME-DO-REPO-ALGEBRA-LINEAR">Linear Algebra</a></h3>
+      <p>Estudos e implementações de Álgebra Linear.</p>
+      <img src="https://img.shields.io/badge/%C3%81lgebra_Linear-8A2BE2?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🧮 <a href="https://github.com/YURI-gomes062/ATP2_2026">ATP2_2026</a></h3>
-      <p>Listas de algoritmos em C (IFG).</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <h3>🚀 <a href="https://github.com/YURI-gomes062/Eighteen_Days_In_Space">Eighteen Days In Space</a></h3>
+      <p>Projeto desenvolvido em GDScript (Godot).</p>
+      <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✅ <a href="https://github.com/YURI-gomes062/TASK_CRUD">TASK_CRUD</a></h3>
-      <p>CRUD completo com PHP, API REST e MySQL.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <h3>📊 <a href="https://github.com/YURI-gomes062/Algorithm_statistics">Algorithm Statistics</a></h3>
+      <p>Algoritmo de estatística descritiva em C (Estatística Descritiva 2026/2).</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/YURI-gomes062/Projects_arduino">Projects_arduino</a></h3>
-      <p>Projetos de eletrônica e robótica com Arduino.</p>
+      <h3>🤖 <a href="https://github.com/YURI-gomes062/projectsArduino">Projects Arduino</a></h3>
+      <p>Meus projetos de eletrônica e robótica com Arduino.</p>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -136,9 +136,9 @@ class YuriGomes:
 <div align="center">
 
 <a href="https://github.com/YURI-gomes062"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://t.me/SEU_USUARIO"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yuri-gomes-64a029377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/5562981127152"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://t.me/@YURI_C137"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 <br/><br/>
 
