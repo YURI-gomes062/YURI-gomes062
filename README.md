@@ -90,12 +90,12 @@ class YuriGomes:
   <tr>
     <td width="50%" valign="top">
       <h3>📐 <a href="https://github.com/YURI-gomes062/NOME-DO-REPO-ALGEBRA-LINEAR">Linear Algebra</a></h3>
-      <p>Estudos e implementações de Álgebra Linear.</p>
+      <p>Estudos e implementações de Álgebra Linear em C.</p>
       <img src="https://img.shields.io/badge/%C3%81lgebra_Linear-8A2BE2?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/YURI-gomes062/Eighteen_Days_In_Space">Eighteen Days In Space</a></h3>
-      <p>Projeto desenvolvido em GDScript (Godot).</p>
+      <p>“Eighteen_Days_In_Space” é um jogo desenvolvido para o Hackaton NASA Space Apps Challenge 2026. O projeto foi criado especificamente para o desafio “Crie um Simulador de Missão para Jovens Astronautas”.</p>
       <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
     </td>
   </tr>
