@@ -2,17 +2,31 @@
 
 <h3 align="center"> Software Engineering Student | Back-end developer | C | JS | Python | C# | MYSQL | Machine Learning | CNNs | </h3>
 
-<p align="center">
-  <a href="https:https://www.linkedin.com/in/yuri-gomes-64a029377/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5562981127152">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://t.me/yuri_c137">
-    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
++---------------------------------------------------------------------------------------------------+
+|                                        YURI GOMES DE OLIVEIRA                                     |
+|                        Software Engineering Student | Back-end Developer                          |
++----------------------+----------------------------------------------------------------------------+
+| CATEGORIA            | DETALHES                                                                   |
++----------------------+----------------------------------------------------------------------------+
+| Formacao             | Engenharia de Software - IFG (4o periodo)                                  |
+| Foco                 | Backend, Automacao, Machine Learning e Redes Neurais (CNNs)                |
+| Objetivo             | Construir uma trajetoria em pesquisa cientifica e Desenvolvimento          |
++----------------------+----------------------------------------------------------------------------+
+| Linguagens           | Python | C | C# | TypeScript | JavaScript | PHP | SQL                      |
+| Frameworks & Libs    | Node.js | TensorFlow | PyTorch | NumPy                                     |
+| Ferramentas & Hardw. | MySQL | Arduino | Git                                                      |
++----------------------+----------------------------------------------------------------------------+
+| Interesses           | - Pesquisa Academica: Contribuir com projetos cientificos em tecnologia.   |
+|                      | - Backend / Full Stack: Criar sistemas robustos para automacao de tarefas. |
+|                      | - Machine Learning / CNNs: Aplicar redes neurais em problemas reais.       |
++----------------------+----------------------------------------------------------------------------+
+| Projetos em Destaque | - Snake-Game: Jogo desenvolvido em Python                                  |
+|                      | - ATP2_2026: Listas de algoritmos em C (IFG)                               |
+|                      | - TASK_CRUD: CRUD com PHP, API REST e MySQL                                |
+|                      | - Projects_arduino: Projetos de eletronica e robotica com Arduino          |
++----------------------+----------------------------------------------------------------------------+
+| Contato              | GitHub: YURI-gomes062 | LinkedIn | WhatsApp | Telegram                     |
++----------------------+----------------------------------------------------------------------------+
 
 ---
 
