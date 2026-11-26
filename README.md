@@ -54,31 +54,36 @@ class YuriGomes:
 - 🎯 Meta: construir projetos **back-end** com fácil manutenção e upgrade
 - ⚡ Curioso por eletrônica e robótica com **Arduino**
 ---
- 
 ## 🛠️ Stack & Ferramentas
- 
+
 <div align="center">
-**Linguagens**
- 
+
+<b>Linguagens</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=py,c,cs,ts,js,php,mysql&perline=7" />
-**Frameworks, Libs & Hardware**
- 
+
+<br/><br/>
+
+<b>Frameworks, Libs & Hardware</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,tensorflow,pytorch,numpy,arduino,git&perline=6" />
+
 </div>
----
- 
+
+<hr/>
+
 ## 🎯 Interesses
- 
+
 | 💡 Área | 🚀 Objetivo |
 |:--|:--|
 | 🎓 **Pesquisa Acadêmica** | Contribuir com projetos científicos na área de tecnologia, construindo um perfil acadêmico sólido. |
 | ⚙️ **Backend / Full Stack** | Criar sistemas robustos e sustentáveis que promovam automação de tarefas. |
 | 🧠 **Machine Learning / CNNs** | Estudar e aplicar redes neurais convolucionais em problemas reais, unindo teoria e prática. |
- 
----
- 
+
+<hr/>
+
 ## 📌 Projetos em destaque
- 
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -106,29 +111,37 @@ class YuriGomes:
     </td>
   </tr>
 </table>
----
- 
+
+<hr/>
+
 ## 📊 Estatísticas do GitHub
- 
+
 <div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YURI-gomes062&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YURI-gomes062&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YURI-gomes062&theme=tokyonight&hide_border=true" />
+
 </div>
----
- 
+
+<hr/>
+
 ## 🤝 Vamos conversar?
- 
+
 <div align="center">
+
 <a href="https://github.com/YURI-gomes062"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://t.me/SEU_USUARIO"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
- 
+
 <br/><br/>
- 
-*"Código bom é aquele que alguém consegue manter."* ✨
- 
+
+<i>"Código bom é aquele que alguém consegue manter."</i> ✨
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" />
+
 </div>
- 
