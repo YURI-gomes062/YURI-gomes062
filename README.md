@@ -1,25 +1,42 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yuri%20Gomes&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Back-end%20Developer&descAlignY=58&descSize=18" width="100%" />
-<a href="https://github.com/YURI-gomes062">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+welcome+to+my+profile!+%F0%9F%9A%80;Engenharia+de+Software+%40+IFG+(4%C2%BA+per%C3%ADodo);Back-end+%7C+Automa%C3%A7%C3%A3o+%7C+Machine+Learning;Construindo+sistemas+robustos+e+f%C3%A1ceis+de+manter" alt="Typing SVG" />
-</a>
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
- 
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=YURI-gomes062&label=Visitas&color=00d9ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YURI-gomes062?label=Seguidores&style=for-the-badge&color=2c5364&logo=github)
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yuri%20Gomes&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Back-end%20Developer&descAlignY=58&descSize=18" width="100%" />
+  
+  <a href="https://github.com/YURI-gomes062">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+welcome+to+my+profile!+%F0%9F%9A%80;Engenharia+de+Software+%40+IFG+(4%C2%BA+per%C3%ADodo);Back-end+%7C+Automa%C3%A7%C3%A3o+%7C+Machine+Learning;Construindo+sistemas+robustos+e+f%C3%A1ceis+de+manter" alt="Typing SVG" />
+  </a>
+  <br/>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=YURI-gomes062&label=Visitas&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/YURI-gomes062?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/YURI-gomes062?label=Seguidores&style=for-the-badge&color=2c5364&logo=github" alt="Followers" />
+  </a>
 </div>
+
 ---
- 
+
 ## 👨‍💻 Sobre mim
- 
+
 ```python
 class YuriGomes:
     def __init__(self):
@@ -28,10 +45,9 @@ class YuriGomes:
         self.foco      = ["Backend", "Automação", "Machine Learning", "CNNs"]
         self.objetivo  = "Construir uma trajetória em pesquisa científica e desenvolvimento"
         self.estudando = ["Machine Learning", "Redes Neurais Convolucionais", "MySQL", "Algoritmos"]
- 
+
     def meta(self):
         return "Projetos back-end de fácil manutenção e upgrade 🎯"
-```
  
 - 🔭 Estudando atualmente **Machine Learning** e **CNNs**, além de BD MySQL e algoritmos em geral
 - 🌱 Aprendendo a aplicar **Python/ML** em projetos práticos de automação e pesquisa
