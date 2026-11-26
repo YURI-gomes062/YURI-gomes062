@@ -142,7 +142,7 @@ class YuriGomes:
 
 <br/><br/>
 
-<i>"Código bom é aquele que alguém consegue manter."</i> ✨
+<i>"Entender o problema -> Planejar a solução -> Representar -> Codificar -> Testar -> Refinar"</i> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" />
 
