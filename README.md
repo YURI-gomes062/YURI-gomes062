@@ -2,6 +2,7 @@
 
 <h3 align="center"> Software Engineering Student | Back-end developer | C | JS | Python | C# | MYSQL | Machine Learning | CNNs | </h3>
 
+```
 +---------------------------------------------------------------------------------------------------+
 |                                        YURI GOMES DE OLIVEIRA                                     |
 |                        Software Engineering Student | Back-end Developer                          |
@@ -27,6 +28,7 @@
 +----------------------+----------------------------------------------------------------------------+
 | Contato              | GitHub: YURI-gomes062 | LinkedIn | WhatsApp | Telegram                     |
 +----------------------+----------------------------------------------------------------------------+
+```
 
 ---
 
